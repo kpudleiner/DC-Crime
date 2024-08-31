@@ -1,1 +1,2 @@
 # DC-Crime
+This flyer is a project from my Data Visualizations Class, where we were challenged to answer a specific question of our choosing using the skills we'd learned. I, along with my partners Kayla Aviles and Katy Lenshin, decided to examine where and when it is safest to visit Washington DC. Utilizing data from over 343,000 reported crimes, we created the attached infographic using Python's pandas and matplotlib to answer that question.
